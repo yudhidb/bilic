@@ -1,4 +1,4 @@
-Daftar Isi
+#### Daftar Isi
 1. [Pendahuluan](#i-pendahuluan)
 	1. Latar Belakang
 	2. Tujuan
@@ -140,7 +140,7 @@ berkeadilan.
  ***
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2OTYzODI3LDE0MTYzMDI0NzEsLTI2Nj
-kyMzM2MywxMDc3NTYxMjA4LDQzNzg3OTEzMCwyNTkwNDQxMTks
-MzE2MDk5OTIzXX0=
+eyJoaXN0b3J5IjpbLTM5NDU5MjEwNSwyMDY5NjM4MjcsMTQxNj
+MwMjQ3MSwtMjY2OTIzMzYzLDEwNzc1NjEyMDgsNDM3ODc5MTMw
+LDI1OTA0NDExOSwzMTYwOTk5MjNdfQ==
 -->
