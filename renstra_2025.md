@@ -79,7 +79,7 @@ berkeadilan.
 ## 3.4. Fokus Pendukung
 
 1. Menyiapkan dan mengembangkan kapasitas organisasi sebagai model panutan organisasi yang menjalankan, dan menyediakan layanan, independent living.
-2. Mengembangkan sumber-sumber pendapatan melalui berbagai layanan yang disediakan organisasi.
+2. Mengembangkan sumber-sumber pendapatan organisasi baik melalui donasi dan berbagai layanan yang disediakan.
 
 ***
  Kembali ke [Daftar Isi](#daftar-isi)
@@ -88,6 +88,11 @@ berkeadilan.
 # IV. Agenda Kerja dan Strategi Implementasi
 
 ## 4.1. Agenda Kerja
+
+|  |  |
+|--|--|
+|  |  |
+
 
 ## 4.2. Strategi Implementasi
 
@@ -128,6 +133,6 @@ berkeadilan.
  ***
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MTA2MDQ3MSwxMDc3NTYxMjA4LDQzNz
+eyJoaXN0b3J5IjpbLTI2NjkyMzM2MywxMDc3NTYxMjA4LDQzNz
 g3OTEzMCwyNTkwNDQxMTksMzE2MDk5OTIzXX0=
 -->
