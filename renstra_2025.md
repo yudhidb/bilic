@@ -1,27 +1,30 @@
-[TOC]
 Daftar Isi
-1. [Pendahuluan] (#i-pendahuluan)
-2. [Gambaran Situasi] (#ii-gambaran-situasi)
+1. [Pendahuluan](#i-pendahuluan)
+	1. Latar Belakang
+	2. Tujuan
+	3. Fungsi dan Manfaat Dokumen Rencana Strategis
+	4. Proses Penyusunan
+2. [Gambaran Situasi](#ii-gambaran-situasi)
 	1. Situasi Disabilitas Saat Ini
 	2. Kerja Bilic dan Capaian Hingga Saat Ini
 	3. Perkembangan Kelembagaan Bilic
 	4. Analisa KETAPEL
-3. [Visi dan Misi 2025-2030] (#iii-visi-dan-misi-2025-2030)
+3. [Visi dan Misi 2025-2030](#iii-visi-dan-misi-2025-2030)
 	1. Visi
 	2. Misi
 	3. Fokus Kerja
 	4. Fokus Pendukung
-4. [Agenda Kerja dan Strategi Implementasi] (#iii-agenda-kerja-dan-strategi-implementasi)
+4. [Agenda Kerja dan Strategi Implementasi](#iii-agenda-kerja-dan-strategi-implementasi)
 	1. Agenda Kerja
 	2. Strategi Implementasi
-5. [Pengembangan Kelembagaan Bilic] (#v-pengembangan-kelembagaan-bilic)
+5. [Pengembangan Kelembagaan Bilic](#v-pengembangan-kelembagaan-bilic)
 	1. Struktur Kelembagaan
     2. Tata Kelola dan SOP Kelembagaan
     3. Penguatan Kapasitas Teknis
 	4. Dukungan Perlengkapan Kerja
-6. [Proyeksi dan Strategi Perluasan Kemitraan] (#vi-proyeksi-dan-strategi-perluasan-kemitraan)
-7. [Adopsi dan Internalisasi RENSTRA dalam Perencanaan, Implementasi, dan Monitoring Kerja Organisasi] (#vii-adopsi-dan-internalisasi-renstra-dalam-perencanaan-implementasi-dan-monitoring-kerja-organisasi)
-8. [Penutup] (#viii-penutup)
+6. [Proyeksi dan Strategi Perluasan Kemitraan](#vi-proyeksi-dan-strategi-perluasan-kemitraan)
+7. [Adopsi dan Internalisasi RENSTRA dalam Perencanaan, Implementasi, dan Monitoring Kerja Organisasi](#vii-adopsi-dan-internalisasi-renstra-dalam-perencanaan-implementasi-dan-monitoring-kerja-organisasi)
+8. [Penutup](#viii-penutup)
 
 ***
 
@@ -36,7 +39,7 @@ Daftar Isi
 ## 1.4. Proses Penyusunan
 
 ***
- Kembali ke [Daftar Isi] (#daftar-isi)
+ Kembali ke [Daftar Isi](#daftar-isi)
  ***
 
 # II. [Gambaran Situasi] (#daftar-isi)
@@ -87,6 +90,6 @@ Daftar Isi
 
 # VIII. [Penutup] (#daftar-isi)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc3MDM2Mzk4LDEwNzc1NjEyMDgsNDM3OD
+eyJoaXN0b3J5IjpbNTg1OTI4NDkyLDEwNzc1NjEyMDgsNDM3OD
 c5MTMwLDI1OTA0NDExOSwzMTYwOTk5MjNdfQ==
 -->
