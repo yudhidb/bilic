@@ -1,19 +1,4 @@
-[TOC]
-1. [Pendahuluan](#i-pendahuluan)
-	1. Latar Belakang
-	2. Tujuan
-	3. Fungsi dan Manfaat Dokumen Rencana Strategis
-	4. Proses Penyusunan
-2. Gambaran Situasi
-	1. Situasi Disabilitas Saat Ini
-	2. Kerja Bilic dan Capaian Hingga Saat Ini
-	3. Perkembangan Kelembagaan Bilic
-	4. Analisa KETAPEL
-3. Visi dan Misi 2025-2030
-4. Fokus Kerja dan Fokus Pendukung
-5. Agenda Kerja
-
-
+Daftar Isi
 I. [Pendahuluan] (#i-pendahuluan)
 	1.1. Latar Belakang
 	1.2. Tujuan
@@ -41,8 +26,9 @@ VI. [Proyeksi dan Strategi Perluasan Kemitraan] (#vi-proyeksi-dan-strategi-perlu
 VII. [Adopsi dan Internalisasi RENSTRA dalam Perencanaan, Implementasi dan Monitoring Kerja Organisasi] (#vii-adopsi-dan-internalisasi-renstra-dalam-perencanaan-implementasi-dan-monitoring-kerja-organisasi)
 VIII. [Penutup] (#viii-penutup)
 
+***
 
-# I. Pendahuluan
+# I. [Pendahuluan] (#daftar-isi)
 
 ## 1.1. Latar Belakang
 
@@ -53,7 +39,7 @@ VIII. [Penutup] (#viii-penutup)
 ## 1.4. Proses Penyusunan
 
 
-# II. Gambaran Situasi
+# II. (Gambaran Situasi) (#daftar-isi)
 
 ## 2.1. Situasi Disabilitas Saat Ini
 
@@ -64,7 +50,7 @@ VIII. [Penutup] (#viii-penutup)
 ## 2.4. Analisa KETAPEL
 
 
-# III. Visi dan Misi 2025-2030
+# III. [Visi dan Misi 2025-2030] (#daftar-isi)
 
 ## 3.1. Visi
 
@@ -101,6 +87,6 @@ VIII. [Penutup] (#viii-penutup)
 
 # VIII. Penutup
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTg3NDg0OTUsNDM3ODc5MTMwLDI1OT
-A0NDExOSwzMTYwOTk5MjNdfQ==
+eyJoaXN0b3J5IjpbMzkzODM1MDUyLDQzNzg3OTEzMCwyNTkwND
+QxMTksMzE2MDk5OTIzXX0=
 -->
