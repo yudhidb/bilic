@@ -110,31 +110,13 @@ berkeadilan.
 | Keluaran langsung | Sistem layanan sosial dan komersial yang siap beroperasi untuk memberikan pelayanan |
 | | Terbentuknya struktur divisi layanan |
 | | Memiliki asisten-asisten sekurang-kurangnya 5 orang |
-    
-
--   Target pengguna sekurang-kurangnya 5 orang
-    
-
--   Target layanan komersial 3 pengguna, target layanan sosial 2 pengguna
-    
-
-Sasaran pengguna
-
-Konsumen individu penyandang disabilitas yang memerlukan asisten, baik yang mampu maupun yang tidak mampu
-
-Mitra /calon mitra
-
-Donatur individual atau lembaga/perusahaan untuk membiayai penyandang disabilitas yang tidak mampu
-
-Tahapan implementasi
-
--   Pembentukan divisi
-    
-
--   Menentukan ruang lingkup penyandang disabilitas yang akan mendapatkan pelayanan
-    
-
--   Menyusun model bisnis layanan komersial
+| | Target pengguna sekurang-kurangnya 5 orang |
+| | Target layanan komersial 3 pengguna, target layanan sosial 2 pengguna |
+| Sasaran pengguna | Konsumen individu penyandang disabilitas yang memerlukan asisten, baik yang mampu maupun yang tidak mampu |
+| Mitra /calon mitra | Donatur individual atau lembaga/perusahaan untuk membiayai penyandang disabilitas yang tidak mampu |
+| Tahapan implementasi | 1. Pembentukan divisi |
+| | 2. Menentukan ruang lingkup penyandang disabilitas yang akan mendapatkan pelayanan |
+| |  Menyusun model bisnis layanan komersial
     
 
 -   Menyusun model layanan sosial
@@ -221,8 +203,8 @@ Anggota: Bu Lala
  ***
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNjgzOTEyMCwtNTk5MTIyMDg3LC0zOT
-Q1OTIxMDUsMjA2OTYzODI3LDE0MTYzMDI0NzEsLTI2NjkyMzM2
-MywxMDc3NTYxMjA4LDQzNzg3OTEzMCwyNTkwNDQxMTksMzE2MD
-k5OTIzXX0=
+eyJoaXN0b3J5IjpbNDMwNzY2MTQwLC01OTkxMjIwODcsLTM5ND
+U5MjEwNSwyMDY5NjM4MjcsMTQxNjMwMjQ3MSwtMjY2OTIzMzYz
+LDEwNzc1NjEyMDgsNDM3ODc5MTMwLDI1OTA0NDExOSwzMTYwOT
+k5MjNdfQ==
 -->
