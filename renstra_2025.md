@@ -42,7 +42,7 @@ Daftar Isi
  Kembali ke [Daftar Isi](#daftar-isi)
  ***
 
-# II. [Gambaran Situasi] (#daftar-isi)
+# II. Gambaran Situasi
 
 ## 2.1. Situasi Disabilitas Saat Ini
 
@@ -56,7 +56,7 @@ Daftar Isi
  Kembali ke [Daftar Isi](#daftar-isi)
  ***
 
-# III. [Visi dan Misi 2025-2030] (#daftar-isi)
+# III. Visi dan Misi 2025-2030
 
 ## 3.1. Visi
 
@@ -70,7 +70,7 @@ Daftar Isi
  Kembali ke [Daftar Isi](#daftar-isi)
  ***
 
-# IV. [Agenda Kerja dan Strategi Implementasi] (#daftar-isi)
+# IV. Agenda Kerja dan Strategi Implementasi
 
 ## 4.1. Agenda Kerja
 
@@ -80,7 +80,7 @@ Daftar Isi
  Kembali ke [Daftar Isi](#daftar-isi)
  ***
  
-# V. [Pengembangan Kelembagaan Bilic
+# V. Pengembangan Kelembagaan Bilic
 
 ## 5.1. Struktur Kelembagaan
     
@@ -113,6 +113,6 @@ Daftar Isi
  ***
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTMzMzAwNzUsMTA3NzU2MTIwOCw0Mz
-c4NzkxMzAsMjU5MDQ0MTE5LDMxNjA5OTkyM119
+eyJoaXN0b3J5IjpbLTIyMzQzNTExMiwxMDc3NTYxMjA4LDQzNz
+g3OTEzMCwyNTkwNDQxMTksMzE2MDk5OTIzXX0=
 -->
