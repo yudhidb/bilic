@@ -103,6 +103,94 @@ berkeadilan.
 
 ## 4.2. Strategi Implementasi
 
+|  Judul Agenda / Program |  Membangun sistem dan struktur layanan asisten kemandirian, dan melaksanakan pelayanan |
+| | Tujuan: Terbentuknya sistem dan struktur layanan asisten kemandirian yang beroperasi baik untuk layanan sosial maupun untuk layanan komersial. |
+
+Fokus kerja yang dijawab: menyediakan layanan asisten kemandirian  baik secara sosial maupun komersial.
+
+Keluaran langsung
+
+-   Sistem layanan sosial dan komersial yang siap beroperasi untuk memberikan pelayanan
+    
+
+-   Terbentuknya struktur divisi layanan
+    
+
+-   Memiliki asisten-asisten sekurang-kurangnya 5 orang
+    
+
+-   Target pengguna sekurang-kurangnya 5 orang
+    
+
+-   Target layanan komersial 3 pengguna, target layanan sosial 2 pengguna
+    
+
+Sasaran pengguna
+
+Konsumen individu penyandang disabilitas yang memerlukan asisten, baik yang mampu maupun yang tidak mampu
+
+Mitra /calon mitra
+
+Donatur individual atau lembaga/perusahaan untuk membiayai penyandang disabilitas yang tidak mampu
+
+Tahapan implementasi
+
+-   Pembentukan divisi
+    
+
+-   Menentukan ruang lingkup penyandang disabilitas yang akan mendapatkan pelayanan
+    
+
+-   Menyusun model bisnis layanan komersial
+    
+
+-   Menyusun model layanan sosial
+    
+
+-   Menyusun anggaran
+    
+
+-   Menyusun modul layanan asisten kemandirian
+    
+
+-   Menyusun etika asisten kemandirian dan pengguna
+    
+
+-   Menentukan berapa biaya layanan komersial
+    
+
+-   Menentukan prosentase bayaran antara Bilic, asisten, dan subsidi layanan sosial.
+    
+
+-   Rekruitmen  dan pelatihan asisten
+    
+
+-   Promosi layanan
+    
+
+-   Menyusun daftar penyandang disabilitas yang tidak mampu, yang dapat diajukan kepada donatur untuk pembiayaan asisten
+    
+
+-   Memulai pelayanan
+    
+
+Kebutuhan
+
+-   Alat peraga yang akan digunakan oleh pengguna untuk pelatihan asisten
+    
+
+-   Data calon penyandang disabilitas yang memerlukan asisten
+    
+
+-   Data calon donatur individual dan lembaga yang potensial
+    
+
+Penanggung jawab
+
+Kepala Divisi Asisten Kemandirian: Rina
+
+Anggota: Bu Lala
+
 ***
  Kembali ke [Daftar Isi](#daftar-isi)
  ***
@@ -140,7 +228,7 @@ berkeadilan.
  ***
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NDU5MjEwNSwyMDY5NjM4MjcsMTQxNj
-MwMjQ3MSwtMjY2OTIzMzYzLDEwNzc1NjEyMDgsNDM3ODc5MTMw
-LDI1OTA0NDExOSwzMTYwOTk5MjNdfQ==
+eyJoaXN0b3J5IjpbLTE3ODI5NjAyMSwtMzk0NTkyMTA1LDIwNj
+k2MzgyNywxNDE2MzAyNDcxLC0yNjY5MjMzNjMsMTA3NzU2MTIw
+OCw0Mzc4NzkxMzAsMjU5MDQ0MTE5LDMxNjA5OTkyM119
 -->
