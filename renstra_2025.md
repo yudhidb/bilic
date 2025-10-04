@@ -22,7 +22,7 @@ Outline
 
 ***
 
-# I. Pendahuluan (# pendahuluan)
+# I. Pendahuluan
 
 ## 1.1. Latar Belakang
 
@@ -76,6 +76,6 @@ Outline
 
 # VIII. Penutup
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NTAzNTI3NywzMTYwOTk5MjMsMjU5MD
-Q0MTE5XX0=
+eyJoaXN0b3J5IjpbMjk0NzU0NDcyLDMxNjA5OTkyMywyNTkwND
+QxMTldfQ==
 -->
