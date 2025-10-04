@@ -103,7 +103,9 @@ berkeadilan.
 
 ## 4.2. Strategi Implementasi
 
-|  Judul Agenda / Program |  Membangun sistem dan struktur layanan asisten kemandirian, dan melaksanakan pelayanan |
+### 1. Membangun Sistem dan Struktur Layanan Asisten Kemandirian, dan Menjalankan Pelayanan
+
+|  Judul Agenda / Program |  Membangun sistem dan struktur layanan asisten kemandirian, dan menjalankan pelayanan |
 |--|--|
 | Tujuan | Terbentuknya sistem dan struktur layanan asisten kemandirian yang beroperasi baik untuk layanan sosial maupun untuk layanan komersial. |
 | | Fokus kerja yang dijawab: menyediakan layanan asisten kemandirian  baik secara sosial maupun komersial. |
@@ -170,8 +172,8 @@ berkeadilan.
  ***
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyOTUxMTIwNyw3OTAzMTc4NjYsLTU5OT
-EyMjA4NywtMzk0NTkyMTA1LDIwNjk2MzgyNywxNDE2MzAyNDcx
-LC0yNjY5MjMzNjMsMTA3NzU2MTIwOCw0Mzc4NzkxMzAsMjU5MD
-Q0MTE5LDMxNjA5OTkyM119
+eyJoaXN0b3J5IjpbLTE1ODY2MDA5OCwxMjI5NTExMjA3LDc5MD
+MxNzg2NiwtNTk5MTIyMDg3LC0zOTQ1OTIxMDUsMjA2OTYzODI3
+LDE0MTYzMDI0NzEsLTI2NjkyMzM2MywxMDc3NTYxMjA4LDQzNz
+g3OTEzMCwyNTkwNDQxMTksMzE2MDk5OTIzXX0=
 -->
