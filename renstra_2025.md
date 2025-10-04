@@ -107,11 +107,11 @@ berkeadilan.
 |--|--|
 | Tujuan | Terbentuknya sistem dan struktur layanan asisten kemandirian yang beroperasi baik untuk layanan sosial maupun untuk layanan komersial. |
 | | Fokus kerja yang dijawab: menyediakan layanan asisten kemandirian  baik secara sosial maupun komersial. |
-| Keluaran langsung | Sistem layanan sosial dan komersial yang siap beroperasi untuk memberikan pelayanan |
-| | Terbentuknya struktur divisi layanan |
-| | Memiliki asisten-asisten sekurang-kurangnya 5 orang |
-| | Target pengguna sekurang-kurangnya 5 orang |
-| | Target layanan komersial 3 pengguna, target layanan sosial 2 pengguna |
+| Keluaran langsung | 1. Sistem layanan sosial dan komersial yang siap beroperasi untuk memberikan pelayanan |
+| | 2. Terbentuknya struktur divisi layanan |
+| | 3. Memiliki asisten-asisten sekurang-kurangnya 5 orang |
+| | 4. Target pengguna sekurang-kurangnya 5 orang |
+| | 5. Target layanan komersial 3 pengguna, target layanan sosial 2 pengguna |
 | Sasaran pengguna | Konsumen individu penyandang disabilitas yang memerlukan asisten, baik yang mampu maupun yang tidak mampu |
 | Mitra /calon mitra | Donatur individual atau lembaga/perusahaan untuk membiayai penyandang disabilitas yang tidak mampu |
 | Tahapan implementasi | 1. Pembentukan divisi |
@@ -170,8 +170,8 @@ berkeadilan.
  ***
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkwMzE3ODY2LC01OTkxMjIwODcsLTM5ND
-U5MjEwNSwyMDY5NjM4MjcsMTQxNjMwMjQ3MSwtMjY2OTIzMzYz
-LDEwNzc1NjEyMDgsNDM3ODc5MTMwLDI1OTA0NDExOSwzMTYwOT
-k5MjNdfQ==
+eyJoaXN0b3J5IjpbMTIyOTUxMTIwNyw3OTAzMTc4NjYsLTU5OT
+EyMjA4NywtMzk0NTkyMTA1LDIwNjk2MzgyNywxNDE2MzAyNDcx
+LC0yNjY5MjMzNjMsMTA3NzU2MTIwOCw0Mzc4NzkxMzAsMjU5MD
+Q0MTE5LDMxNjA5OTkyM119
 -->
