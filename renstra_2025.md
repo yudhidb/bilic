@@ -89,7 +89,7 @@ berkeadilan.
 
 ## 4.1. Agenda Kerja
 
-|  |  |
+| **Agenda Kerja** | **Dasar Pertimbangan** | **Tujuan/Hasil** | **Target Waktu** |
 |--|--|
 |  |  |
 
@@ -133,6 +133,7 @@ berkeadilan.
  ***
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NjkyMzM2MywxMDc3NTYxMjA4LDQzNz
-g3OTEzMCwyNTkwNDQxMTksMzE2MDk5OTIzXX0=
+eyJoaXN0b3J5IjpbMTQxNjMwMjQ3MSwtMjY2OTIzMzYzLDEwNz
+c1NjEyMDgsNDM3ODc5MTMwLDI1OTA0NDExOSwzMTYwOTk5MjNd
+fQ==
 -->
