@@ -14,17 +14,17 @@
 5. Agenda Kerja
 
 
-I. [Pendahuluan
+I. [Pendahuluan] (#i-pendahuluan)
 	1.1. Latar Belakang
 	1.2. Tujuan
 	1.3. Fungsi dan Manfaat Dokumen Rencana Strategis
 	1.4. Proses Penyusunan
-II. Gambaran Situasi
+II. Gambaran Situasi (#ii-gambaran-situasi)
 	2.1. Situasi Disabilitas Saat Ini
 	2.2. Kerja Bilic dan Capaian Hingga Saat Ini
 	2.3. Perkembangan Kelembagaan Bilic
 	2.4. Analisa KETAPEL
-III. Visi dan Misi 2025-2030
+III. Visi dan Misi 2025-2030 (#iii-visi-dan-misi-2025-2030)
 	3.1. Visi
 	3.2. Misi
 	3.3. Fokus Kerja
@@ -101,6 +101,6 @@ VIII. Penutup
 
 # VIII. Penutup
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY3MTA0OTc4LDQzNzg3OTEzMCwyNTkwND
-QxMTksMzE2MDk5OTIzXX0=
+eyJoaXN0b3J5IjpbLTYwMzg2MDU0Myw0Mzc4NzkxMzAsMjU5MD
+Q0MTE5LDMxNjA5OTkyM119
 -->
