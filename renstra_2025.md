@@ -1,10 +1,6 @@
 [TOC]
 Daftar Isi
-* [Pendahuluan] (#i-pendahuluan)
-	1. Latar Belakang
-	2. Tujuan
-	3. Fungsi dan Manfaat Dokumen Rencana Strategis
-	4. Proses Penyusunan
+1. [Pendahuluan] (#i-pendahuluan)
 2. [Gambaran Situasi] (#ii-gambaran-situasi)
 	1. Situasi Disabilitas Saat Ini
 	2. Kerja Bilic dan Capaian Hingga Saat Ini
@@ -91,6 +87,6 @@ Daftar Isi
 
 # VIII. [Penutup] (#daftar-isi)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDAwMTkzNTMsMTA3NzU2MTIwOCw0Mz
-c4NzkxMzAsMjU5MDQ0MTE5LDMxNjA5OTkyM119
+eyJoaXN0b3J5IjpbNDc3MDM2Mzk4LDEwNzc1NjEyMDgsNDM3OD
+c5MTMwLDI1OTA0NDExOSwzMTYwOTk5MjNdfQ==
 -->
