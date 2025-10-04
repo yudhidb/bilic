@@ -1,8 +1,5 @@
 [TOC]
-* [Pendahuluan](#pendahuluan)
-
-Outline
-1. Pendahuluan
+1. [Pendahuluan](#pendahuluan)
 	1. Latar Belakang
 	2. Tujuan
 	3. Fungsi dan Manfaat Dokumen Rencana Strategis
@@ -75,6 +72,6 @@ Outline
 
 # VIII. Penutup
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjIwOTk1NjksMjU5MDQ0MTE5LDMxNj
-A5OTkyM119
+eyJoaXN0b3J5IjpbNDM3ODc5MTMwLDI1OTA0NDExOSwzMTYwOT
+k5MjNdfQ==
 -->
