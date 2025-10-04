@@ -1,6 +1,6 @@
 [TOC]
 Daftar Isi
-1. [Pendahuluan] (#i-pendahuluan)
+* [Pendahuluan] (#i-pendahuluan)
 	1. Latar Belakang
 	2. Tujuan
 	3. Fungsi dan Manfaat Dokumen Rencana Strategis
