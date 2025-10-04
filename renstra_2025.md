@@ -122,31 +122,16 @@ berkeadilan.
 | | 6. Menyusun modul layanan asisten kemandirian |
 | | 7. Menyusun etika asisten kemandirian dan pengguna |
 | | 8. Menentukan biaya layanan komersial |
-| | 9. Menentukan prosentase bayaran antara Bilic, asisten, dan subsidi layanan sosial. |
-| | Rekruitmen dan pelatihan asisten |
-| | Promosi layanan |
-| | Menyusun daftar penyandang disabilitas yang tidak mampu, yang dapat diajukan kepada donatur untuk pembiayaan asisten
-    
-
--   Memulai pelayanan
-    
-
-Kebutuhan
-
--   Alat peraga yang akan digunakan oleh pengguna untuk pelatihan asisten
-    
-
--   Data calon penyandang disabilitas yang memerlukan asisten
-    
-
--   Data calon donatur individual dan lembaga yang potensial
-    
-
-Penanggung jawab
-
-Kepala Divisi Asisten Kemandirian: Rina
-
-Anggota: Bu Lala
+| | 9. Menentukan prosentase bayaran antara Bilic, asisten, dan subsidi layanan sosial |
+| | 10. Rekruitmen dan pelatihan asisten |
+| | 11. Promosi layanan |
+| | 12. Menyusun daftar penyandang disabilitas yang tidak mampu, yang dapat diajukan kepada donatur untuk pembiayaan asisten |
+| | 13. Memulai pelayanan |
+| Kebutuhan | 1. Alat peraga yang akan digunakan oleh pengguna untuk pelatihan asisten |
+| | 2. Data calon penyandang disabilitas yang memerlukan asisten
+| | 3. Data calon donatur individual dan lembaga yang potensial
+| Penanggung jawab | Kepala Divisi Asisten Kemandirian: Rina |
+| | Anggota: Bu Lala |
 
 ***
  Kembali ke [Daftar Isi](#daftar-isi)
@@ -185,7 +170,7 @@ Anggota: Bu Lala
  ***
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg3NDAyNjY4LC01OTkxMjIwODcsLTM5ND
+eyJoaXN0b3J5IjpbNzkwMzE3ODY2LC01OTkxMjIwODcsLTM5ND
 U5MjEwNSwyMDY5NjM4MjcsMTQxNjMwMjQ3MSwtMjY2OTIzMzYz
 LDEwNzc1NjEyMDgsNDM3ODc5MTMwLDI1OTA0NDExOSwzMTYwOT
 k5MjNdfQ==
