@@ -29,7 +29,7 @@ Daftar Isi
 
 ***
 
-# I. [Pendahuluan] (#daftar-isi)
+# I. Pendahuluan
 
 ## 1.1. Latar Belakang
 
@@ -39,6 +39,7 @@ Daftar Isi
 
 ## 1.4. Proses Penyusunan
 
+ Kembali ke [Daftar Isi] (#daftar-isi)
 
 # II. [Gambaran Situasi] (#daftar-isi)
 
@@ -88,6 +89,6 @@ Daftar Isi
 
 # VIII. [Penutup] (#daftar-isi)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzI4MDcwMjYsMTA3NzU2MTIwOCw0Mz
-c4NzkxMzAsMjU5MDQ0MTE5LDMxNjA5OTkyM119
+eyJoaXN0b3J5IjpbMTMxMTUzNDg0MiwxMDc3NTYxMjA4LDQzNz
+g3OTEzMCwyNTkwNDQxMTksMzE2MDk5OTIzXX0=
 -->
