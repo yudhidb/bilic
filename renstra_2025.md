@@ -97,10 +97,15 @@ berkeadilan.
 - Terbentuknya database asisten kemandirian | 1 tahun |
 | - Memaksimalkan basecamp | | | |
 | - Mendorong Kajian-kajian Independent Living, dengan menyelenggarakan seminar, training kuliah tematik | | | |
+| - Membuat Pelatihan kehidupan mandiri | | | |
+| - Mengusahakan Penyediaan alat-alat kesehatan dan memberikan informasi tentang kebutuhan kesehatan penyandang disabilitas yang tidak ditanggung pemerintah (BPJS) atau asuransi lainnya | | | |
     
--   Membuat Pelatihan kehidupan mandiri
-    
--   Mengusahakan Penyediaan alat-alat kesehatan dan memberikan informasi tentang kebutuhan kesehatan penyandang disabilitas yang tidak ditanggung pemerintah (BPJS) atau asuransi lainnya
+
+  
+
+Prioritas:
+
+-   Review AD/ART
 
 
 ## 4.2. Strategi Implementasi
@@ -142,7 +147,7 @@ berkeadilan.
  ***
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE1MjUwMzgzLDE0MTYzMDI0NzEsLTI2Nj
-kyMzM2MywxMDc3NTYxMjA4LDQzNzg3OTEzMCwyNTkwNDQxMTks
-MzE2MDk5OTIzXX0=
+eyJoaXN0b3J5IjpbLTEyNjUxNDkwNiwxNDE2MzAyNDcxLC0yNj
+Y5MjMzNjMsMTA3NzU2MTIwOCw0Mzc4NzkxMzAsMjU5MDQ0MTE5
+LDMxNjA5OTkyM119
 -->
