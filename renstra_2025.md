@@ -39,7 +39,9 @@ Daftar Isi
 
 ## 1.4. Proses Penyusunan
 
+***
  Kembali ke [Daftar Isi] (#daftar-isi)
+ ***
 
 # II. [Gambaran Situasi] (#daftar-isi)
 
@@ -89,6 +91,6 @@ Daftar Isi
 
 # VIII. [Penutup] (#daftar-isi)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMTUzNDg0MiwxMDc3NTYxMjA4LDQzNz
-g3OTEzMCwyNTkwNDQxMTksMzE2MDk5OTIzXX0=
+eyJoaXN0b3J5IjpbLTExOTA5Njk0NTQsMTA3NzU2MTIwOCw0Mz
+c4NzkxMzAsMjU5MDQ0MTE5LDMxNjA5OTkyM119
 -->
