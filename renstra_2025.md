@@ -72,7 +72,9 @@ berkeadilan.
 
 ## 3.3. Fokus Kerja
 
-1. Pengembangan independent living melalui penyelenggaraan Center for Independet Living (CIL), peer support / counceling, asisten kemandirian, aksesibilitas, informasi dan referral.
+1. Pengembangan independent living melalui penyelenggaraan Center for Independet Living (CIL), peer support / counselling, asisten kemandirian, aksesibilitas, informasi dan referral.
+2. Advokasi terbangunnya sistem yang mendukung independent living.
+3. Mempromosikan BILIC sebagai IL expert resources.
 
 ## 3.4. Fokus Pendukung
 
@@ -123,6 +125,6 @@ berkeadilan.
  ***
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMjc2MjMyNSwxMDc3NTYxMjA4LDQzNz
+eyJoaXN0b3J5IjpbLTgzODM1MjMyMiwxMDc3NTYxMjA4LDQzNz
 g3OTEzMCwyNTkwNDQxMTksMzE2MDk5OTIzXX0=
 -->
