@@ -1,7 +1,7 @@
 Daftar Isi
 I. [Pendahuluan] (#i-pendahuluan)
-	1.1. Latar Belakang
-	1.2. Tujuan
+1.1. Latar Belakang
+1.2. Tujuan
 	1.3. Fungsi dan Manfaat Dokumen Rencana Strategis
 	1.4. Proses Penyusunan
 II. [Gambaran Situasi] (#ii-gambaran-situasi)
@@ -87,6 +87,6 @@ VIII. [Penutup] (#viii-penutup)
 
 # VIII. [Penutup] (#daftar-isi)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU1NzAzMjA1LDQzNzg3OTEzMCwyNTkwND
-QxMTksMzE2MDk5OTIzXX0=
+eyJoaXN0b3J5IjpbLTEyNDAyOTk2NzUsNDM3ODc5MTMwLDI1OT
+A0NDExOSwzMTYwOTk5MjNdfQ==
 -->
