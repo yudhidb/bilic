@@ -94,9 +94,13 @@ berkeadilan.
 | - Menyediakan layanan peer konseling | Sudah ada layanan peer konseling namun tidak dilanjutkan (terbatas menyangkut support untuk independent living saja) mempelajari ragam kebutuhan disabilitas | Layanan peer konseling diaktifkan kembali (layanan komersil dan non komersil) | 1 tahun |
 | - Membentuk layanan asisten kemandirian | Kebutuhan disabilitas untuk akomodasi |
 - Adanya layanan penghubung antara asisten kemandirian rekrutmen relawan
-- Terbentuknya database asisten kemandirian
-| - Memaksimalkan basecamp|--|
-|  |  |
+- Terbentuknya database asisten kemandirian | 1 tahun |
+| - Memaksimalkan basecamp | | | |
+| - Mendorong Kajian-kajian Independent Living, dengan menyelenggarakan seminar, training kuliah tematik | | | |
+    
+-   Membuat Pelatihan kehidupan mandiri
+    
+-   Mengusahakan Penyediaan alat-alat kesehatan dan memberikan informasi tentang kebutuhan kesehatan penyandang disabilitas yang tidak ditanggung pemerintah (BPJS) atau asuransi lainnya
 
 
 ## 4.2. Strategi Implementasi
@@ -138,7 +142,7 @@ berkeadilan.
  ***
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzOTkxMTk1NiwxNDE2MzAyNDcxLC0yNj
-Y5MjMzNjMsMTA3NzU2MTIwOCw0Mzc4NzkxMzAsMjU5MDQ0MTE5
-LDMxNjA5OTkyM119
+eyJoaXN0b3J5IjpbMjE1MjUwMzgzLDE0MTYzMDI0NzEsLTI2Nj
+kyMzM2MywxMDc3NTYxMjA4LDQzNzg3OTEzMCwyNTkwNDQxMTks
+MzE2MDk5OTIzXX0=
 -->
