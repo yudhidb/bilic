@@ -90,6 +90,7 @@ berkeadilan.
 ## 4.1. Agenda Kerja
 
 | **Agenda Kerja** | **Dasar Pertimbangan** | **Tujuan/Hasil** | **Target Waktu** |
+|-----|-----|
 | - Menyusun panduan IL versi BILiC | Belum banyak literatur definisi konsep IL untuk disabilitas pengalaman dan wawasan | Menghasilakan pedoman IL | 3 bulan |
 | - Menyediakan layanan peer konseling | Sudah ada layanan peer konseling namun tidak dilanjutkan (terbatas menyangkut support untuk independent living saja) mempelajari ragam kebutuhan disabilitas | Layanan peer konseling diaktifkan kembali (layanan komersil dan non komersil) | 1 tahun |
 | - Membentuk layanan asisten kemandirian | Kebutuhan disabilitas untuk akomodasi |
@@ -140,7 +141,7 @@ berkeadilan.
  ***
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MTcwNTU4NiwxNDE2MzAyNDcxLC0yNj
-Y5MjMzNjMsMTA3NzU2MTIwOCw0Mzc4NzkxMzAsMjU5MDQ0MTE5
-LDMxNjA5OTkyM119
+eyJoaXN0b3J5IjpbNTkzNjgwNDc4LDE0MTYzMDI0NzEsLTI2Nj
+kyMzM2MywxMDc3NTYxMjA4LDQzNzg3OTEzMCwyNTkwNDQxMTks
+MzE2MDk5OTIzXX0=
 -->
