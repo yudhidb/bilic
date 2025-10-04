@@ -90,7 +90,15 @@ berkeadilan.
 ## 4.1. Agenda Kerja
 
 | **Agenda Kerja** | **Dasar Pertimbangan** | **Tujuan/Hasil** | **Target Waktu** |
-|--|--|
+| -   Menyusun panduan IL versi BILiC
+    
+-   Layanan peer konseling
+    
+-   Membentuk Layanan peer konseling
+    
+-   Membentuk layanan asisten kemandirian
+    
+-   Memaksimalkan basecamp|--|
 |  |  |
 
 
@@ -133,7 +141,7 @@ berkeadilan.
  ***
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNjMwMjQ3MSwtMjY2OTIzMzYzLDEwNz
-c1NjEyMDgsNDM3ODc5MTMwLDI1OTA0NDExOSwzMTYwOTk5MjNd
-fQ==
+eyJoaXN0b3J5IjpbMTIwNzAxMzU0MywxNDE2MzAyNDcxLC0yNj
+Y5MjMzNjMsMTA3NzU2MTIwOCw0Mzc4NzkxMzAsMjU5MDQ0MTE5
+LDMxNjA5OTkyM119
 -->
