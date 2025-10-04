@@ -1,4 +1,9 @@
 [TOC]
+* [Pendahuluan](#pendahuluan)
+	* [Summary](#summary)
+	* [Questions](#questions)
+	* [Logical Picture](#logical-picture)
+	* [Tables](#tables)
 
 Outline
 1. Pendahuluan
@@ -17,7 +22,7 @@ Outline
 
 ***
 
-# I. Pendahuluan
+# I. Pendahuluan (# pendahuluan)
 
 ## 1.1. Latar Belakang
 
@@ -71,6 +76,6 @@ Outline
 
 # VIII. Penutup
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMzU2MTI1NSwzMTYwOTk5MjMsMjU5MD
+eyJoaXN0b3J5IjpbLTU0NTAzNTI3NywzMTYwOTk5MjMsMjU5MD
 Q0MTE5XX0=
 -->
