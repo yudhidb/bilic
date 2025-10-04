@@ -38,8 +38,8 @@ V. Pengembangan Kelembagaan Bilic (#v-pengembangan-kelembagaan-bilic)
     5.3. Penguatan Kapasitas Teknis
 	5.4. Dukungan Perlengkapan Kerja
 VI. Proyeksi dan Strategi Perluasan Kemitraan (#vi-proyeksi-dan-strategi-perluasan-kemitraan)
-VII. Adopsi dan Internalisasi RENSTRA dalam Perencanaan, Implementasi dan Monitoring Kerja Organisasi] (#vii-Adopsi dan Internalisasi RENSTRA dalam Perencanaan, Implementasi dan Monitoring Kerja Organisasi
-VIII. Penutup
+VII. [Adopsi dan Internalisasi RENSTRA dalam Perencanaan, Implementasi dan Monitoring Kerja Organisasi] (#vii-adopsi-dan-internalisasi-renstra-dalam-perencanaan-implementasi-dan-monitoring-kerja-organisasi)
+[VIII. Penutup] (#viii-penutup)
 
 
 # I. Pendahuluan
@@ -101,6 +101,6 @@ VIII. Penutup
 
 # VIII. Penutup
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMjI2NjA0MCw0Mzc4NzkxMzAsMjU5MD
+eyJoaXN0b3J5IjpbLTQzNDc0NDk1NSw0Mzc4NzkxMzAsMjU5MD
 Q0MTE5LDMxNjA5OTkyM119
 -->
