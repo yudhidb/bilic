@@ -105,20 +105,11 @@ berkeadilan.
 
 |  Judul Agenda / Program |  Membangun sistem dan struktur layanan asisten kemandirian, dan melaksanakan pelayanan |
 |--|--|
-|Tujuan: Terbentuknya sistem dan struktur layanan asisten kemandirian yang beroperasi baik untuk layanan sosial maupun untuk layanan komersial. |
-
-
-Fokus kerja yang dijawab: menyediakan layanan asisten kemandirian  baik secara sosial maupun komersial.
-
-Keluaran langsung
-
--   Sistem layanan sosial dan komersial yang siap beroperasi untuk memberikan pelayanan
-    
-
--   Terbentuknya struktur divisi layanan
-    
-
--   Memiliki asisten-asisten sekurang-kurangnya 5 orang
+| Tujuan | Terbentuknya sistem dan struktur layanan asisten kemandirian yang beroperasi baik untuk layanan sosial maupun untuk layanan komersial. |
+| | Fokus kerja yang dijawab: menyediakan layanan asisten kemandirian  baik secara sosial maupun komersial. |
+| Keluaran langsung | Sistem layanan sosial dan komersial yang siap beroperasi untuk memberikan pelayanan |
+| | Terbentuknya struktur divisi layanan |
+| | Memiliki asisten-asisten sekurang-kurangnya 5 orang |
     
 
 -   Target pengguna sekurang-kurangnya 5 orang
@@ -230,7 +221,7 @@ Anggota: Bu Lala
  ***
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1Mjk4NTY5OSwtNTk5MTIyMDg3LC0zOT
+eyJoaXN0b3J5IjpbMjExNjgzOTEyMCwtNTk5MTIyMDg3LC0zOT
 Q1OTIxMDUsMjA2OTYzODI3LDE0MTYzMDI0NzEsLTI2NjkyMzM2
 MywxMDc3NTYxMjA4LDQzNzg3OTEzMCwyNTkwNDQxMTksMzE2MD
 k5OTIzXX0=
