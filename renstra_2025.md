@@ -52,6 +52,9 @@ Daftar Isi
 
 ## 2.4. Analisa KETAPEL
 
+***
+ Kembali ke [Daftar Isi](#daftar-isi)
+ ***
 
 # III. [Visi dan Misi 2025-2030] (#daftar-isi)
 
@@ -63,6 +66,9 @@ Daftar Isi
 
 ## 3.4. Fokus Pendukung
 
+***
+ Kembali ke [Daftar Isi](#daftar-isi)
+ ***
 
 # IV. [Agenda Kerja dan Strategi Implementasi] (#daftar-isi)
 
@@ -70,8 +76,11 @@ Daftar Isi
 
 ## 4.2. Strategi Implementasi
 
-
-# V. [Pengembangan Kelembagaan Bilic] (#daftar-isi)
+***
+ Kembali ke [Daftar Isi](#daftar-isi)
+ ***
+ 
+# V. [Pengembangan Kelembagaan Bilic
 
 ## 5.1. Struktur Kelembagaan
     
@@ -80,16 +89,30 @@ Daftar Isi
 ## 5.3. Penguatan Kapasitas Teknis
     
 ## 5.4. Dukungan Perlengkapan Kerja
-    
+ 
+ ***
+ Kembali ke [Daftar Isi](#daftar-isi)
+ ***   
 
-# VI. [Proyeksi dan Strategi Perluasan Kemitraan] (#daftar-isi)
+# VI. Proyeksi dan Strategi Perluasan Kemitraan
 
+***
+ Kembali ke [Daftar Isi](#daftar-isi)
+ ***
 
-# VII. [Adopsi dan Internalisasi RENSTRA dalam Perencanaan, Implementasi, dan Monitoring Kerja Organisasi] (#daftar-isi)
+# VII. Adopsi dan Internalisasi RENSTRA dalam Perencanaan, Implementasi, dan Monitoring Kerja Organisasi
 
+***
+ Kembali ke [Daftar Isi](#daftar-isi)
+ ***
 
-# VIII. [Penutup] (#daftar-isi)
+# VIII. Penutup
+
+***
+ Kembali ke [Daftar Isi](#daftar-isi)
+ ***
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg1OTI4NDkyLDEwNzc1NjEyMDgsNDM3OD
-c5MTMwLDI1OTA0NDExOSwzMTYwOTk5MjNdfQ==
+eyJoaXN0b3J5IjpbLTEzOTMzMzAwNzUsMTA3NzU2MTIwOCw0Mz
+c4NzkxMzAsMjU5MDQ0MTE5LDMxNjA5OTkyM119
 -->
