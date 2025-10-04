@@ -1,5 +1,5 @@
 [TOC]
-1. [Pendahuluan](#pendahuluan)
+1. [Pendahuluan](#i-pendahuluan)
 	1. Latar Belakang
 	2. Tujuan
 	3. Fungsi dan Manfaat Dokumen Rencana Strategis
@@ -13,7 +13,7 @@
 4. Fokus Kerja dan Fokus Pendukung
 5. Agenda Kerja
 
-# I. Pendahuluan (#pendahuluan)
+# I. Pendahuluan
 
 ## 1.1. Latar Belakang
 
