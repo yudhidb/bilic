@@ -78,7 +78,8 @@ berkeadilan.
 
 ## 3.4. Fokus Pendukung
 
-1. Menyiapkan dan mengembangkan kapasitas organisasi sebagai model panutan organisasi penyedia layanan independent living.
+1. Menyiapkan dan mengembangkan kapasitas organisasi sebagai model panutan organisasi yang menjalankan, dan menyediakan layanan, independent living.
+2. Mengembangkan sumber-sumber pendapatan melalui berbagai layanan yang disediakan organisasi.
 
 ***
  Kembali ke [Daftar Isi](#daftar-isi)
@@ -127,6 +128,6 @@ berkeadilan.
  ***
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgwOTEwMjQ2LDEwNzc1NjEyMDgsNDM3OD
-c5MTMwLDI1OTA0NDExOSwzMTYwOTk5MjNdfQ==
+eyJoaXN0b3J5IjpbLTg4MTA2MDQ3MSwxMDc3NTYxMjA4LDQzNz
+g3OTEzMCwyNTkwNDQxMTksMzE2MDk5OTIzXX0=
 -->
