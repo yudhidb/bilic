@@ -60,7 +60,15 @@ Daftar Isi
 
 ## 3.1. Visi
 
+Masyarakat Indonesia yang inklusif dan sejahtera dalam kesetaraan dan
+berkeadilan.
+
 ## 3.2. Misi
+
+1. Meningkatkan kualitas hidup para penyandang disabilitas  dengan dasar filosofi Independent Living.
+2. Mengembangkan layanan-layanan yang mendukung kemandirian agar penyandang disabilitas dapat mengembangkan potensi dirinya dengan penuh serta  berpartisipasi dan memperoleh kesetaraan dalam masyarakat.
+3. Mengajak masyarakat luas memahami semua hak para penyandang disabilitas sesuai dengan undang-undang yang berlaku.
+4. Membantu pemenuhan kebutuhan mereka sesuai dengan instrumen hukum nasional dan internasional.
 
 ## 3.3. Fokus Kerja
 
@@ -113,6 +121,6 @@ Daftar Isi
  ***
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMzQzNTExMiwxMDc3NTYxMjA4LDQzNz
+eyJoaXN0b3J5IjpbMTczNzUxNjU1NywxMDc3NTYxMjA4LDQzNz
 g3OTEzMCwyNTkwNDQxMTksMzE2MDk5OTIzXX0=
 -->
