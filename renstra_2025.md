@@ -99,14 +99,7 @@ berkeadilan.
 | - Mendorong Kajian-kajian Independent Living, dengan menyelenggarakan seminar, training kuliah tematik | | | |
 | - Membuat Pelatihan kehidupan mandiri | | | |
 | - Mengusahakan Penyediaan alat-alat kesehatan dan memberikan informasi tentang kebutuhan kesehatan penyandang disabilitas yang tidak ditanggung pemerintah (BPJS) atau asuransi lainnya | | | |
-    
-
-  
-
-Prioritas:
-
--   Review AD/ART
-
+| Review AD/ART | | | |
 
 ## 4.2. Strategi Implementasi
 
@@ -147,7 +140,7 @@ Prioritas:
  ***
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjUxNDkwNiwxNDE2MzAyNDcxLC0yNj
+eyJoaXN0b3J5IjpbMTQ5MTcwNTU4NiwxNDE2MzAyNDcxLC0yNj
 Y5MjMzNjMsMTA3NzU2MTIwOCw0Mzc4NzkxMzAsMjU5MDQ0MTE5
 LDMxNjA5OTkyM119
 -->
