@@ -116,34 +116,16 @@ berkeadilan.
 | Mitra /calon mitra | Donatur individual atau lembaga/perusahaan untuk membiayai penyandang disabilitas yang tidak mampu |
 | Tahapan implementasi | 1. Pembentukan divisi |
 | | 2. Menentukan ruang lingkup penyandang disabilitas yang akan mendapatkan pelayanan |
-| |  Menyusun model bisnis layanan komersial
-    
-
--   Menyusun model layanan sosial
-    
-
--   Menyusun anggaran
-    
-
--   Menyusun modul layanan asisten kemandirian
-    
-
--   Menyusun etika asisten kemandirian dan pengguna
-    
-
--   Menentukan berapa biaya layanan komersial
-    
-
--   Menentukan prosentase bayaran antara Bilic, asisten, dan subsidi layanan sosial.
-    
-
--   Rekruitmen  dan pelatihan asisten
-    
-
--   Promosi layanan
-    
-
--   Menyusun daftar penyandang disabilitas yang tidak mampu, yang dapat diajukan kepada donatur untuk pembiayaan asisten
+| | 3. Menyusun model bisnis layanan komersial |
+| | 4. Menyusun model layanan sosial |
+| | 5. Menyusun anggaran |
+| | 6. Menyusun modul layanan asisten kemandirian |
+| | 7. Menyusun etika asisten kemandirian dan pengguna |
+| | 8. Menentukan biaya layanan komersial |
+| | 9. Menentukan prosentase bayaran antara Bilic, asisten, dan subsidi layanan sosial. |
+| | Rekruitmen dan pelatihan asisten |
+| | Promosi layanan |
+| | Menyusun daftar penyandang disabilitas yang tidak mampu, yang dapat diajukan kepada donatur untuk pembiayaan asisten
     
 
 -   Memulai pelayanan
@@ -203,7 +185,7 @@ Anggota: Bu Lala
  ***
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMwNzY2MTQwLC01OTkxMjIwODcsLTM5ND
+eyJoaXN0b3J5IjpbOTg3NDAyNjY4LC01OTkxMjIwODcsLTM5ND
 U5MjEwNSwyMDY5NjM4MjcsMTQxNjMwMjQ3MSwtMjY2OTIzMzYz
 LDEwNzc1NjEyMDgsNDM3ODc5MTMwLDI1OTA0NDExOSwzMTYwOT
 k5MjNdfQ==
