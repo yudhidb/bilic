@@ -74,9 +74,10 @@ berkeadilan.
 
 1. Pengembangan independent living melalui penyelenggaraan Center for Independet Living (CIL), peer support / counselling, asisten kemandirian, aksesibilitas, informasi dan referral.
 2. Advokasi terbangunnya sistem yang mendukung independent living.
-3. Mempromosikan BILIC sebagai IL expert resources.
+3. Mempromosikan BILiC sebagai sumber daya ahli dalam independet living.
 
 ## 3.4. Fokus Pendukung
+
 
 ***
  Kembali ke [Daftar Isi](#daftar-isi)
@@ -125,6 +126,6 @@ berkeadilan.
  ***
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzODM1MjMyMiwxMDc3NTYxMjA4LDQzNz
-g3OTEzMCwyNTkwNDQxMTksMzE2MDk5OTIzXX0=
+eyJoaXN0b3J5IjpbODIyMTMxNDc5LDEwNzc1NjEyMDgsNDM3OD
+c5MTMwLDI1OTA0NDExOSwzMTYwOTk5MjNdfQ==
 -->
