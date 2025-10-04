@@ -1,4 +1,6 @@
-#### Outline
+[TOC]
+
+Outline
 1. Pendahuluan
 	1. Latar Belakang
 	2. Tujuan
@@ -69,5 +71,6 @@
 
 # VIII. Penutup
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE2MDk5OTIzLDI1OTA0NDExOV19
+eyJoaXN0b3J5IjpbMTYxMzU2MTI1NSwzMTYwOTk5MjMsMjU5MD
+Q0MTE5XX0=
 -->
