@@ -1,27 +1,3 @@
-[TOC]
-* [Pendahuluan](#pendahuluan)
-	* [Summary](#summary)
-	* [Questions](#questions)
-	* [Logical Picture](#logical-picture)
-	* [Tables](#tables)
-
-Outline
-1. Pendahuluan
-	1. Latar Belakang
-	2. Tujuan
-	3. Fungsi dan Manfaat Dokumen Rencana Strategis
-	4. Proses Penyusunan
-2. Gambaran Situasi
-	1. Situasi Disabilitas Saat Ini
-	2. Kerja Bilic dan Capaian Hingga Saat Ini
-	3. Perkembangan Kelembagaan Bilic
-	4. Analisa Ketapel
-3. Visi dan Misi 2025-2030
-4. Fokus Kerja dan Fokus Pendukung
-5. Agenda Kerja
-
-***
-
 # I. Pendahuluan
 
 ## 1.1. Latar Belakang
@@ -76,6 +52,6 @@ Outline
 
 # VIII. Penutup
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk0NzU0NDcyLDMxNjA5OTkyMywyNTkwND
+eyJoaXN0b3J5IjpbMjU5MDQ0MTE5LDMxNjA5OTkyMywyNTkwND
 QxMTldfQ==
 -->
