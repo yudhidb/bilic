@@ -29,10 +29,10 @@ III. Visi dan Misi 2025-2030 (#iii-visi-dan-misi-2025-2030)
 	3.2. Misi
 	3.3. Fokus Kerja
 	3.4. Fokus Pendukung
-IV. Agenda Kerja dan Strategi Implementasi
+IV. Agenda Kerja dan Strategi Implementasi (#iii-agenda-kerja-dan-strategi-implementasi)
 	4.1. Agenda Kerja
 	4.2. Strategi Implementasi
-V. Pengembangan Kelembagaan Bilic
+V. Pengembangan Kelembagaan Bilic (#v-pengembangan-kelembagaan-bilic)
 	5.1. Struktur Kelembagaan
     5.2. Tata Kelola dan SOP Kelembagaan
     5.3. Penguatan Kapasitas Teknis
@@ -101,6 +101,6 @@ VIII. Penutup
 
 # VIII. Penutup
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMzg2MDU0Myw0Mzc4NzkxMzAsMjU5MD
-Q0MTE5LDMxNjA5OTkyM119
+eyJoaXN0b3J5IjpbLTExODU0MTg2ODksNDM3ODc5MTMwLDI1OT
+A0NDExOSwzMTYwOTk5MjNdfQ==
 -->
